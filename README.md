@@ -1,5 +1,11 @@
 # Multi-user Online Game (Client–Server System)
 
+**Group:** 9
+**Name:** 况旻諭  
+**Student ID:** 614430005  
+
+
+
 This project implements a **multi-user online game system** using a **client–server architecture**.
 Multiple clients can connect to a central server over a real network (LAN), interact in a shared game world, and exchange messages securely.
 
